@@ -16,7 +16,7 @@ function bras() {
 
 <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 place-items-center justify-self-center mt-5">
     <div>
-        <iframe width="460" height="260" src="https://www.youtube.com/embed/PHTe-6kQAW0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+        <iframe width="460" height="260" src="https://www.youtube.com/embed/PHTe-6kQAW0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
     </div>
 </div>
 
@@ -31,13 +31,13 @@ function bras() {
 
 <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 place-items-center justify-self-center mt-5">
     <div>
-        <iframe width="460" height="260" src="https://www.youtube.com/embed/VDkwvj2_VIg" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+        <iframe width="460" height="260" src="https://www.youtube.com/embed/VDkwvj2_VIg" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
     </div>
     <div>
-        <iframe width="460" height="260" src="https://www.youtube.com/embed/Su-AFZ4pCs0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+        <iframe width="460" height="260" src="https://www.youtube.com/embed/Su-AFZ4pCs0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
     </div>
     <div>
-        <iframe width="460" height="260" src="https://www.youtube.com/embed/KLxlHs6nFgQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+        <iframe width="460" height="260" src="https://www.youtube.com/embed/KLxlHs6nFgQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
     </div>
 </div>
 
@@ -52,7 +52,7 @@ function bras() {
 
 <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 place-items-center justify-self-center mt-5">
     <div>
-        <iframe width="460" height="260" src="https://www.youtube.com/embed/qkrgTkDxw2E" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+        <iframe width="460" height="260" src="https://www.youtube.com/embed/qkrgTkDxw2E" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
     </div>
 </div>
 

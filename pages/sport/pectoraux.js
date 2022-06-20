@@ -18,19 +18,19 @@ function pectoraux() {
 
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 place-items-center justify-self-center mt-5">
             <div>
-                <iframe width="460" height="260" src="https://www.youtube.com/embed/EAzT-DJxZC0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+                <iframe width="460" height="260" src="https://www.youtube.com/embed/EAzT-DJxZC0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
             <div>
-                <iframe width="460" height="260" src="https://www.youtube.com/embed/c7JisdFieeI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+                <iframe width="460" height="260" src="https://www.youtube.com/embed/c7JisdFieeI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
             <div>
-                <iframe width="460" height="260" src="https://www.youtube.com/embed/XQSvE-8Kgp4" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+                <iframe width="460" height="260" src="https://www.youtube.com/embed/XQSvE-8Kgp4" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
         </div>
 
         <div className="mt-5 mx-5">
             <h3 className="text-xl">Conseils :</h3>
-            <span>Les exercices de 5 minutes sont parfaits lorsque tu commences. Si tu n&apos;arrives pas à faire des pompes "classiques", tu peux faire des pompes sur les genoux. Si tu choisis de faire des exercices de 5 minutes et que tu souhaites travailler uniquement les pectoraux, je te conseille de faire 3 fois la même vidéo ou de faire 3 vidéos différentes. 15 minutes de pectoraux est largement suffisant, car ce muscle est très vite congestionné. En revanche, si tu décides de travailler tout le corps, 1 vidéo de 5 minutes suffit.</span>
+            <span>Les exercices de 5 minutes sont parfaits lorsque tu commences. Si tu n&apos;arrives pas à faire des pompes &ldquo;classiques&ldquo;, tu peux faire des pompes sur les genoux. Si tu choisis de faire des exercices de 5 minutes et que tu souhaites travailler uniquement les pectoraux, je te conseille de faire 3 fois la même vidéo ou de faire 3 vidéos différentes. 15 minutes de pectoraux est largement suffisant, car ce muscle est très vite congestionné. En revanche, si tu décides de travailler tout le corps, 1 vidéo de 5 minutes suffit.</span>
         </div>
 
         {/* EXERCICES 10/15 MIN */}
@@ -40,13 +40,13 @@ function pectoraux() {
 
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 place-items-center justify-self-center mt-5">
             <div>
-                <iframe width="460" height="260" src="https://www.youtube.com/embed/79T9769v2NY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+                <iframe width="460" height="260" src="https://www.youtube.com/embed/79T9769v2NY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
             <div>
-                <iframe width="460" height="260" src="https://www.youtube.com/embed/YFGTEr3i6RE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+                <iframe width="460" height="260" src="https://www.youtube.com/embed/YFGTEr3i6RE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
             <div>
-                <iframe width="460" height="260" src="https://www.youtube.com/embed/QLoSIIvV5XA" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+                <iframe width="460" height="260" src="https://www.youtube.com/embed/QLoSIIvV5XA" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </div>
         </div>
 
