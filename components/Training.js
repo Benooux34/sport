@@ -4,7 +4,7 @@ import Link from "next/link"
 
 function Training() {
   return (
-    <div className="h-screen mt-[40px] sm:mt-60">
+    <div className="mt-[40px] mb-20 sm:mt-60">
         <div className="text-center">
             <h2 className="text-3xl sm:text-5xl font-semibold">Les Entrainements</h2>
         </div>
