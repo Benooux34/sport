@@ -7,7 +7,7 @@ function pectoraux() {
     <div>
         <HeaderSport />  
 
-        <div className="text-center">
+        <div className="text-left ml-5 sm:text-center">
             <h1 className="text-3xl sm:text-4xl mt-10">Exercices pour les Pectoraux</h1>
         </div>
 
