@@ -33,24 +33,30 @@ function Training() {
                     </div>
                 </motion.div>
             </Link>
-            <motion.div whileHover={{ scale: 1.05 }} className="relative cursor-pointer h-[300px] sm:h-[400px] w-[100%] border border-2 border-black">
-                <img className="h-full w-full object-cover object-[35%]" src="dos.jpg" alt="" />
-                <div className="absolute bottom-5 w-[100%] z-10 text-center">
-                    <button className="border border-gray-900 border-2 bg-white px-5 py-2 text-xl text-gray-900">Dos</button>
-                </div>
-            </motion.div>
-            <motion.div whileHover={{ scale: 1.05 }} className="relative cursor-pointer h-[300px] sm:h-[400px] w-[100%] border border-2 border-black">
-                <img className="h-full w-full object-cover" src="jambes.jpg" alt="" />
-                <div className="absolute bottom-5 w-[100%] z-10 text-center">
-                    <button className="border border-gray-900 border-2 bg-white px-5 py-2 text-xl text-gray-900">Jambes</button>
-                </div>
-            </motion.div>
-            <motion.div whileHover={{ scale: 1.05 }} className="relative cursor-pointer h-[300px] sm:h-[400px] w-[100%] border border-2 border-black">
-                <img className="h-full w-full object-cover" src="epaules.jpg" alt="" />
-                <div className="absolute bottom-5 w-[100%] z-10 text-center">
-                    <button className="border border-gray-900 border-2 bg-white px-5 py-2 text-xl text-gray-900">Épaules</button>
-                </div>
-            </motion.div>
+            <Link href="/sport/dos">
+                <motion.div whileHover={{ scale: 1.05 }} className="relative cursor-pointer h-[300px] sm:h-[400px] w-[100%] border border-2 border-black">
+                    <img className="h-full w-full object-cover object-[35%]" src="dos.jpg" alt="" />
+                    <div className="absolute bottom-5 w-[100%] z-10 text-center">
+                        <button className="border border-gray-900 border-2 bg-white px-5 py-2 text-xl text-gray-900">Dos</button>
+                    </div>
+                </motion.div>
+            </Link>
+            <Link href="/sport/jambes">
+                <motion.div whileHover={{ scale: 1.05 }} className="relative cursor-pointer h-[300px] sm:h-[400px] w-[100%] border border-2 border-black">
+                    <img className="h-full w-full object-cover" src="jambes.jpg" alt="" />
+                    <div className="absolute bottom-5 w-[100%] z-10 text-center">
+                        <button className="border border-gray-900 border-2 bg-white px-5 py-2 text-xl text-gray-900">Jambes</button>
+                    </div>
+                </motion.div>
+            </Link>
+            <Link href="/sport/epaules">
+                <motion.div whileHover={{ scale: 1.05 }} className="relative cursor-pointer h-[300px] sm:h-[400px] w-[100%] border border-2 border-black">
+                    <img className="h-full w-full object-cover" src="epaules.jpg" alt="" />
+                    <div className="absolute bottom-5 w-[100%] z-10 text-center">
+                        <button className="border border-gray-900 border-2 bg-white px-5 py-2 text-xl text-gray-900">Épaules</button>
+                    </div>
+                </motion.div>
+            </Link>
         </div>
     </div>
   )
